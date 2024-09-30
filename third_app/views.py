@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 
-today = 'monday'
+today = 'Tuesday'
 time_now = '00:23'
 weather_now = 'Sunny'
 
